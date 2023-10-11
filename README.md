@@ -1,2 +1,2 @@
 # taco-loader
-The taco is laoding.
+The taco is loading.
